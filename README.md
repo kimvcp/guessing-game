@@ -1,1 +1,1 @@
-# guessing-game
+# guessing-coinpurse
